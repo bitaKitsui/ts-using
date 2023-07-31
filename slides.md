@@ -29,11 +29,6 @@ title: Welcome to Slidev
 - スケボーの動画にハマってます
   - Jahmir Brown
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 4px">
-  <img src="/Jahmir-Brown-01.jpeg" alt="" />
-  <img src="/Jahmir-Brown-02.jpg" alt="" />
-</div>
-
 ---
 
 # Agenda
